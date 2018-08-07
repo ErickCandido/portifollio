@@ -1,2 +1,2 @@
 # portifollio
-This project was made for Erick Cândido
+this project was developed by Erick Cândido
